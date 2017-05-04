@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureForWx", "AzureForWx\AzureForWx.csproj", "{A835DCAC-53D7-468E-9308-C0181A20790B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{A6D272E7-AB28-4CB8-91AD-A8EA2EB5EE9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A835DCAC-53D7-468E-9308-C0181A20790B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A835DCAC-53D7-468E-9308-C0181A20790B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A835DCAC-53D7-468E-9308-C0181A20790B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A835DCAC-53D7-468E-9308-C0181A20790B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D272E7-AB28-4CB8-91AD-A8EA2EB5EE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D272E7-AB28-4CB8-91AD-A8EA2EB5EE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D272E7-AB28-4CB8-91AD-A8EA2EB5EE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D272E7-AB28-4CB8-91AD-A8EA2EB5EE9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
